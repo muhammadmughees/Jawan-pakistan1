@@ -1,0 +1,142 @@
+
+ body{
+    margin: 0 auto;
+} 
+
+/* ul{
+    /* list-style-type: decimal-leading-zero; */
+    /* list-style-image: url("star-16.png"); */
+    /* list-style-position: inside; */
+    /* list-style: inside-circle; */
+    /* list-style-position: outside; */
+    /* list-style-position:outside; 
+} */
+
+
+/* #section{
+    background-image: url("733911.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    height: 600px;
+} */
+
+/* #section2{
+    background-color:rgba(255, 255, 255,0.2);
+    height: 600px;
+} */
+
+/* table {
+    width: 600px;
+}
+    
+th{
+    
+    padding: 10px 10px 10px 10px;
+}
+
+td {
+    padding: 10px 10px 10px 10px;
+}
+
+th {
+    text-transform: uppercase;
+    letter-spacing: 10px;
+    font-size: 90%;
+    border-bottom: 2px solid springgreen;
+    border-top: 1px solid steelblue;
+    text-align: left;
+}
+
+th{
+    
+    padding: 10px 10px 10px 10px;
+}
+
+td {
+    padding: 10px 10px 10px 10px;
+}
+
+tr.odd {
+    background-color:green;
+}
+tr:hover {
+    background-color:wheat;
+}
+.abc {
+    text-align: right;
+} */
+
+/* td {
+    background-color: #0088dd;
+    padding: 15px;
+    border: 2px solid #000000;}
+    table.one {
+    border-spacing: 5px 15px;}
+    table.two {
+    border-collapse: collapse;
+}
+
+.input-type{
+    background-color:rgba(0, 0, 0,0.5);
+}
+
+.input-type:focus{
+    background-color: white; 
+}*/
+/* 
+input{
+    font-size: 120%;
+    color: #5a5854;
+    background-color: #f2f2f2;
+    border: 1px solid #bdbdbd;
+    border-radius: 5px;
+    padding: 5px 5px 5px 30px;
+    background-repeat: no-repeat;
+    background-position: 8px 9px;
+    display: block;
+    margin-bottom: 10px;}
+    input:focus {
+    background-color: #ffffff;
+    border: 1px solid #b1e1e4;}
+    input#email {
+    background-image: url("twitter.png");}
+    input#twitter {
+    background-image: url("images/twitter.png");}
+    input#web {
+    background-image: url("images/web.png");
+} */
+
+
+#first-div{
+    background-color:rgba(0, 0, 255,0.7);
+    height: 300px;
+    position: relative;
+}
+
+#second-div{
+    background-color:rgba(0, 255, 0,0.8);
+    height: 200px;
+    width: 200px;
+    border-radius:15px;
+    position: absolute;
+    top: 15%;
+    left: 40%;
+}
+
+#third-div{
+    background-color: red;
+    height: 50px;
+    width: 50px;
+    border: 5px solid white;
+    border-radius: 50px;
+    margin-left: 80%;
+    position: relative;
+    bottom: 20px;
+}
+
+.a1{
+    text-align: center;
+    font-size:16px;
+    color: white;
+}
